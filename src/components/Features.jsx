@@ -2,7 +2,7 @@ export default function Features() {
   return (
     <section className="features">
       <div className="features-container">
-        <h2>Calidad que se ve, Seguridad que se siente</h2>
+        <h2>Calidad que se ve, seguridad que se siente</h2>
         <p className="features-subtitle">
           Cada pieza está diseñada y probada por pilotos para ofrecer el mejor rendimiento en cada vuelo.
         </p>
